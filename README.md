@@ -20,6 +20,7 @@ You can use this app to stream Apple events (both live and on-demand) to your Ch
 
 This app is provided for free and as-is, I will not answer to support questions. If there's something you'd like to change or fix, feel free to open a pull request.
 
+# [اپل استور مشهد](https://i-store.org/ )
 ## Screenshots
 
 The main screen features the next event, the play button will appear as soon as the event starts.
